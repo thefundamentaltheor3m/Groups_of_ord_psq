@@ -14,7 +14,7 @@ import group_theory.subgroup.basic
 open fintype
 open is_p_group
 open group
-
+-- Explaining this to Mehdi
 /-- A group that is commutative can be turned into a comm_group
 (See https://github.com/leanprover-community/mathlib/pull/14960#issuecomment-1178880188)
 -/
